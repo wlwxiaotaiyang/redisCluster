@@ -1,0 +1,6 @@
+com\icbc\service\serviceImpl\UserServiceImpl.class
+com\icbc\dao\UserMapper.class
+com\icbc\App.class
+com\icbc\pojo\User.class
+com\icbc\web\UserController.class
+com\icbc\service\UserService.class
